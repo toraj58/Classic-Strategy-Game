@@ -1,5 +1,5 @@
 # Classic-Strategy-Game
-## Prgram By: Touraj Ebrahimi
+## Program By: Touraj Ebrahimi
 ## e-mail: toraj_e@yahoo.com
 ## twitter: @toraj58
 Classic Strategy Game Multi-Thread with Java Using CountDownLatch
