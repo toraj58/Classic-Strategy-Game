@@ -6,4 +6,4 @@ Classic Strategy Game Multi-Thread with Java Using CountDownLatch
 * Multi-Threading
 * CountDownLatch
 
-- This is a game simulator to demonstrate how we can use CountDownLatch in a Classical Strategy Game Simulator
+> :: This is a game simulator to demonstrate how we can use CountDownLatch in a Classical Strategy Game Simulator
